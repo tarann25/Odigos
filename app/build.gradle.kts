@@ -16,11 +16,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mytt"
+    namespace = "com.example.odigos"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.mytt"
+        applicationId = "com.example.odigos"
         minSdk = 26
         targetSdk = 36
         versionCode = 3

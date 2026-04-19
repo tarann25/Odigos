@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "mytt"
+rootProject.name = "odigos"
 include(":app")
  
